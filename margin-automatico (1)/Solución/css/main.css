@@ -1,0 +1,15 @@
+.bloque {
+	width: 200px;
+	border: 20px solid #FDF733;
+	padding: 20px;
+}
+
+.bloque p {
+	font-size: 1em;
+	text-align: center;
+
+}
+
+#dos {
+	margin: 0px auto;
+}
